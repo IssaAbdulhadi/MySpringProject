@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentSpring.iml" filepath="$PROJECT_DIR$/StudentSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculationStudent/calculation-student.iml" filepath="$PROJECT_DIR$/CalculationStudent/calculation-student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadStudentFromFile/read-student-from-file.iml" filepath="$PROJECT_DIR$/ReadStudentFromFile/read-student-from-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCore/spring-core.iml" filepath="$PROJECT_DIR$/SpringCore/spring-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCore/springcore.iml" filepath="$PROJECT_DIR$/SpringCore/springcore.iml" />
+    </modules>
+  </component>
+</project>
